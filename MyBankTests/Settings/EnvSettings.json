@@ -1,0 +1,14 @@
+﻿{
+  "BaseUrl": "https://MyBank.nonProd.com",
+  "Users": {
+    "Default": {
+      "userName": "sayyaf",
+      "password": "Sayyaf45614"
+    },
+    "Admin": {
+      "userName": "sayyafAdmin",
+      "password": "Sayyaf45614"
+    }
+  },
+  "DefaultConnection": "Server=SAYAF;Database=Bank;Trusted_Connection=True;"
+}
